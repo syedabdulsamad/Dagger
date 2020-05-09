@@ -4,7 +4,7 @@ import dagger.Binds
 import dagger.Module
 
 @Module
-abstract class EngineModule {
+abstract class PetrolEngineModule {
     @Binds
     abstract fun bindEngine(engine: PetrolEngine): Engine
 }
