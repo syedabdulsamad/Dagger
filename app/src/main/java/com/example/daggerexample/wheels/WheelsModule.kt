@@ -1,4 +1,4 @@
-package com.example.daggerexample.Wheels
+package com.example.daggerexample.wheels
 
 import dagger.Module
 import dagger.Provides

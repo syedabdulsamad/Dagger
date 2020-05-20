@@ -1,4 +1,4 @@
-package com.example.daggerexample.Engine
+package com.example.daggerexample.engine
 
 import dagger.Binds
 import dagger.Module
